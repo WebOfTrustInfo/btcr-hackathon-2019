@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+## Welcome to the 2019 BTCR Hackathon
 
-You can use the [editor on GitHub](https://github.com/WebOfTrustInfo/btcr-hackathon-2019/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## What is BTCR?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Our medium article [BTCR Method Updates](https://medium.com/@kimdhamilton/btcr-did-method-updates-d0fd14386139) has a summary of the BTCR (Bitcoin Reference) DID (Decentralized Identifier) method, progress so far, and next steps. It also contains links to the latest BTCR documentation and libraries. 
 
-### Markdown
+## Who is involved with BTCR?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Our ongoing work is primarily volunteer-based. We are a ragtag bunch of well-meaning, quasi-cypherpunk/cryptoanarchic, yet exceedingly goofy folks, committed to supporting privacy and individual rights through development of an independent and fully open DID method. Some critical aspects of our work (mobile wallet, library development) have been furthered by support from from Blockchain Commons, Digital Contract Design, and the Shuttleworth Foundation.
 
-```markdown
-Syntax highlighted code block
+We are eager to get more people involved, and this hackathon will be a great opportunity to exchange ideas with others interested in BTCR. 
 
-# Header 1
-## Header 2
-### Header 3
+## What to expect
 
-- Bulleted
-- List
+We will kick off the hackathon with our first remote sync up (details below). There we'll introduce ourselves, interests, and develop a rough game plan for the week. The core devs will be available to answer questions and collaborate on design.
 
-1. Numbered
-2. List
+We have quite a few specific outcomes we'd like to achieve, but we encourage you to bring your own suggestions as well. We are looking for all kinds of participants -- not just developers. For example, if you are interested in these ideas, and you love writing, translating to non-technical audiences, or distilling complex concepts, we would love for you to join us. 
 
-**Bold** and _Italic_ and `Code` text
+## Proposed Hackathon Activities
 
-[Link](url) and ![Image](src)
-```
+- Writing about BTCR / outreach
+- Documentation and samples
+- Other developer-focused documentation (e.g. Jupyter notebook)
+- Examples of Verifiable Credentials and E2E demonstration of DIDs with Verifiable Credentials
+- Update resolvers and libraries to support update and delete operations
+- Development of a BTCR wallet/mobile app
+- Update playground to support easier creation of BTCR testnet DIDs (e.g. a hosted service backed with faucet funds)
+- Connect playground to golang BTCR REST api
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Daily Hackathon Sync-ups
 
-### Jekyll Themes
+- Where: Remote hackathon; we'll be using zoom: https://zoom.us/j/4354261629
+- When: 
+    - August 5-7: 10-11am PDT / 1-2pm ET / 5pm-6pm GMT
+    - August 8,9: 9-10am PDT / noon-1pm ET / 4pm-5pm GMT
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WebOfTrustInfo/btcr-hackathon-2019/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## What's next
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+We are timing this hackathon to gain momentum in advance of [Rebooting Web of Trust 9 in Prague](https://eventbrite.com/e/rebooting-the-web-of-trust-ix-2019b-prague-tickets-63443365815). We won't finish all the activities above, but the hackathon should help us make progress and transfer knowledge to a broader group of new BTCR contributers.
