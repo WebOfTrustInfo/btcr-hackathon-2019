@@ -16,6 +16,8 @@ We will kick off the hackathon with our first remote sync up (details below). Th
 
 We have quite a few specific outcomes we'd like to achieve, but we encourage you to bring your own suggestions as well. We are looking for all kinds of participants -- not just developers. For example, if you are interested in these ideas, and you love writing, translating to non-technical audiences, or distilling complex concepts, we would love for you to join us. 
 
+For an example of past BTCR hackathons, see the [2017 BTCR Hackathon repo](https://weboftrustinfo.github.io/btcr-hackathon-2017/)
+
 ## Proposed Hackathon Activities
 
 - Writing about BTCR / outreach
@@ -37,3 +39,5 @@ We have quite a few specific outcomes we'd like to achieve, but we encourage you
 ## What's next
 
 We are timing this hackathon to gain momentum in advance of [Rebooting Web of Trust 9 in Prague](https://eventbrite.com/e/rebooting-the-web-of-trust-ix-2019b-prague-tickets-63443365815). We won't finish all the activities above, but the hackathon should help us make progress and transfer knowledge to a broader group of new BTCR contributers.
+
+
