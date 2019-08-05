@@ -1,6 +1,26 @@
 # BTCR Hackathon Day 1 
 August 5, 2019
 
+## Table of Contents
+
+
+* [Agenda](#agenda)
+* [BTCR Orientation](#btcr-orientation)
+* [Introductions](#introductions)
+* [Q&A and Prioritization Discussion](#q-a-and-prioritization-discussion)
+  + [Big issues](#big-issues)
+  + [Misc.](#misc)
+* [Goals for the week](#goals-for-the-week)
+  + [What's needed to achieve Goal 1](#what-s-needed-to-achieve-goal-1)
+  + [What's needed to achieve Goal 2](#what-s-needed-to-achieve-goal-2)
+  + [Other possible tasks](#other-possible-tasks)
+* [Action Items](#action-items)
+  + [Everyone, for today](#everyone--for-today)
+  + [Specific action items](#specific-action-items)
+* [Plan for the week](#plan-for-the-week)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small
+
 ## Agenda 
 1. BTCR orientation (5 minutes)
 2. Brief introductions to understand everyone's background and interests (20 minutes)
@@ -121,7 +141,7 @@ Joe Andrieu: https://github.com/jandrieu another ccg cochair. At last RWOT he wo
 - Consider finding a bitcoin wallet that support testnet coins. Get yourself some testnet coins from a faucet. 
 - Identify gaps in understanding so you can request any knowledge transfer sessions tomorrow
 
-### Minor actions 
+### Specific Action Items 
 * @kimdhamilton Make sure diagrams are linked in BTCR DID method
 * @kimdhamilton ensure everyone is added to github repo
 * [DONE] @kimdhamilton Update article with Kulpreet's code link https://github.com/kulpreet/btcr-service
