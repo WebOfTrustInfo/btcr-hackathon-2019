@@ -19,7 +19,7 @@ August 5, 2019
   + [Specific action items](#specific-action-items)
 * [Plan for the week](#plan-for-the-week)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 ## Agenda 
 1. BTCR orientation (5 minutes)
