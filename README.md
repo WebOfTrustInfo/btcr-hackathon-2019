@@ -2,6 +2,10 @@
 
 This remote hackathon is August 5-9, 2019. Details below.
 
+## Daily meetings
+
+- [Day 1](daily/day1.md)
+
 ## What is BTCR?
 
 Our medium article [BTCR Method Updates](https://medium.com/@kimdhamilton/btcr-did-method-updates-d0fd14386139) has a summary of the BTCR (Bitcoin Reference) DID (Decentralized Identifier) method, progress so far, and next steps. It also contains links to the latest BTCR documentation and libraries. 
