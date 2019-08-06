@@ -143,11 +143,11 @@ Joe Andrieu: https://github.com/jandrieu another ccg cochair. At last RWOT he wo
 
 ### Specific Action Items 
 * @kimdhamilton Make sure diagrams are linked in BTCR DID method
-* @kimdhamilton ensure everyone is added to github repo
-* [DONE] @kimdhamilton Update article with Kulpreet's code link https://github.com/kulpreet/btcr-service
-* [DONE] @ChristopherA and @kimdhamilton: goal coordination 
 * Ensure DID Document samples are up to date
 * Create BTCR LD context? Just the basics?
+* [DONE] @kimdhamilton ensure everyone is added to github repo
+* [DONE] @kimdhamilton Update article with Kulpreet's code link https://github.com/kulpreet/btcr-service
+* [DONE] @ChristopherA and @kimdhamilton: goal coordination 
     
 ## Plan for the week
 - Daily checkins (zoom) to talk about progress and any questions
