@@ -4,8 +4,7 @@
 - Current state: 
 https://medium.com/@kimdhamilton/btcr-did-method-updates-d0fd14386139
 - BTCR Method Spec: https://w3c-ccg.github.io/didm-btcr/
-- Amira use case: https://w3c-ccg.github.io/amira/
-
+- Amira use case: https://w3c-ccg.github.io/amira
 
 ## BTCR Tools
 - [BTCR Playground](https://weboftrustinfo.github.io/btcr-tx-playground.github.io/)
@@ -29,3 +28,6 @@ https://medium.com/@kimdhamilton/btcr-did-method-updates-d0fd14386139
 - https://github.com/WebOfTrustInfo/btcr-did-tools-js
 - https://json-ld.org/playground/ (should be updated for latest JSON-LD cli signing)
 - Code for JSON-LD playground here: https://github.com/json-ld/json-ld.org/tree/master/playground
+
+## Community
+- [Web of Trust Discourse Group](https://weboftrustinfo.discourse.group/)
