@@ -14,7 +14,7 @@ https://medium.com/@kimdhamilton/btcr-did-method-updates-d0fd14386139
 - txref (java): https://github.com/dcdpr/libtxref-java
 - txref(javascript):  https://github.com/WebOfTrustInfo/txref-conversion-js
 - BTCR command line tools (c++): https://github.com/dcdpr/btcr-DID-method
-- BTCR service (go): https://github.com/kulpreet/btcr-service
+- BTCR service (golang): https://github.com/kulpreet/btcr-service
 - VC library
  
 ## Verifiable Credentials Libraries
