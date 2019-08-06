@@ -35,7 +35,8 @@ August 5, 2019
 
 ## BTCR Orientation 
 
-[BTCR References](../resources.html)
+- [BTCR Resources](../resources.html)
+- [BTCR Resources - markdown link](../resources.md)
 
 Getting up to speed references:
 - Current state: 
