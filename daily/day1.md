@@ -35,25 +35,10 @@ August 5, 2019
 
 ## BTCR Orientation 
 
+Note: moved to common location 
+
 - [BTCR Resources](../resources.html)
-- [BTCR Resources - markdown link](../resources.md)
-
-Getting up to speed references:
-- Current state: 
-https://medium.com/@kimdhamilton/btcr-did-method-updates-d0fd14386139
-- BTCR Method Spec: https://w3c-ccg.github.io/didm-btcr/
-- Amira use case: https://w3c-ccg.github.io/amira/
-
-Libraries:
- - Bech32 (c++): https://github.com/dcdpr/libbech32
- - Bech32 (java): https://github.com/dcdpr/libbech32-java
- - txref (c++): https://github.com/dcdpr/libtxref
- - txref (java): https://github.com/WebOfTrustInfo/txref-conversion-java
- - txref (java): https://github.com/dcdpr/libtxref-java
- - txref(javascript):  https://github.com/WebOfTrustInfo/txref-conversion-js
- - BTCR command line tools (c++): https://github.com/dcdpr/btcr-DID-method
- - BTCR service (go): https://github.com/kulpreet/btcr-service
- - VC library
+  - [BTCR Resources - markdown link](../resources.md)
  
 ## Introductions
 
@@ -115,13 +100,9 @@ Joe Andrieu: https://github.com/jandrieu another ccg cochair. At last RWOT he wo
     * explore signet as testnet alternative: https://en.bitcoin.it/wiki/Signet
 * Need to ensure we can issue VCs
   * We have command line tool we need to ensure works. This library doesn't generically sign DID documents, maybe extract the signing code to sign them.
-  * Useful librarues:
-    * https://github.com/digitalbazaar/jsonld-signatures
-    * https://github.com/digitalbazaar/did-context
-    * https://github.com/w3c-ccg/did-spec
-    * https://github.com/WebOfTrustInfo/btcr-did-tools-js
-    * https://json-ld.org/playground/ (should be updated for latest JSON-LD cli signing)
-    * Code for JSON-LD playground here: https://github.com/json-ld/json-ld.org/tree/master/playground
+  * Useful VC libraries (note: moved to common location)
+    - [BTCR Resources](../resources.html#verifiable-credentials-libraries)
+      - [BTCR Resources - markdown link](../resources.md)
     
  ### What's needed to achieve Goal 2
  - Ideally, get golang service running. This way all consumers can use it
