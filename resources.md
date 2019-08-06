@@ -6,6 +6,11 @@ https://medium.com/@kimdhamilton/btcr-did-method-updates-d0fd14386139
 - BTCR Method Spec: https://w3c-ccg.github.io/didm-btcr/
 - Amira use case: https://w3c-ccg.github.io/amira/
 
+
+## BTCR Tools
+- [BTCR Playground](https://weboftrustinfo.github.io/btcr-tx-playground.github.io/)
+- [Satyrn BTCR Developer Tools[https://github.com/satyrnjs/satyrn]
+
 ## BTCR Libraries
 - Bech32 (c++): https://github.com/dcdpr/libbech32
 - Bech32 (java): https://github.com/dcdpr/libbech32-java
