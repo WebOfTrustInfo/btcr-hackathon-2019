@@ -35,6 +35,8 @@ August 5, 2019
 
 ## BTCR Orientation 
 
+[BTCR References](../resources.html)
+
 Getting up to speed references:
 - Current state: 
 https://medium.com/@kimdhamilton/btcr-did-method-updates-d0fd14386139
