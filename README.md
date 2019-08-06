@@ -7,8 +7,8 @@ This remote hackathon is August 5-9, 2019. Details below.
 - [Day 1](daily/day1.md)
 
 ## BTCR Resources
-- [BTCR Resources](../resources.html)
-  - [BTCR Resources - markdown link](../resources.md)
+
+[BTCR Resources](https://github.com/w3c-ccg/didm-btcr/blob/gh-pages/resources.md)
 
 ## What is BTCR?
 
