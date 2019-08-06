@@ -10,7 +10,7 @@ https://medium.com/@kimdhamilton/btcr-did-method-updates-d0fd14386139
 - BTCR Playground
   - [BTCR DID Resolution](https://weboftrustinfo.github.io/btcr-tx-playground.github.io/)
   - [Create BTCR DID](https://weboftrustinfo.github.io/btcr-tx-playground.github.io/create.html)
-- [Satyrn BTCR Developer Tools[https://github.com/satyrnjs/satyrn]
+- [Satyrn BTCR Developer Tools](https://github.com/satyrnjs/satyrn)
 
 ## BTCR Libraries
 - Bech32 (c++): https://github.com/dcdpr/libbech32
