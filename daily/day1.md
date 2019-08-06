@@ -109,7 +109,7 @@ Joe Andrieu: https://github.com/jandrieu another ccg cochair. At last RWOT he wo
     * easier hosted javascript to generate a testnet BTCR did given a bitcoin tx 
     * investigate using Merkle Wallet
     * investigate using Joe's Satyrn tool for this
-    * explore testnet alternative (?)
+    * explore signet as testnet alternative: https://en.bitcoin.it/wiki/Signet
 * Need to ensure we can issue VCs
   * We have command line tool we need to ensure works. This library doesn't generically sign DID documents, maybe extract the signing code to sign them.
   * Useful librarues:
