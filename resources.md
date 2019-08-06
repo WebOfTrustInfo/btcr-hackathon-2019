@@ -7,7 +7,9 @@ https://medium.com/@kimdhamilton/btcr-did-method-updates-d0fd14386139
 - Amira use case: https://w3c-ccg.github.io/amira
 
 ## BTCR Tools
-- [BTCR Playground](https://weboftrustinfo.github.io/btcr-tx-playground.github.io/)
+- BTCR Playground
+  - [BTCR DID Resolution](https://weboftrustinfo.github.io/btcr-tx-playground.github.io/)
+  - [Create BTCR DID](https://weboftrustinfo.github.io/btcr-tx-playground.github.io/create.html)
 - [Satyrn BTCR Developer Tools[https://github.com/satyrnjs/satyrn]
 
 ## BTCR Libraries
