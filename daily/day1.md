@@ -37,8 +37,7 @@ August 5, 2019
 
 Note: moved to common location 
 
-- [BTCR Resources](../resources.html)
-  - [BTCR Resources - markdown link](../resources.md)
+[BTCR Resources](https://github.com/w3c-ccg/didm-btcr/blob/gh-pages/resources.md
  
 ## Introductions
 
@@ -100,9 +99,7 @@ Joe Andrieu: https://github.com/jandrieu another ccg cochair. At last RWOT he wo
     * explore signet as testnet alternative: https://en.bitcoin.it/wiki/Signet
 * Need to ensure we can issue VCs
   * We have command line tool we need to ensure works. This library doesn't generically sign DID documents, maybe extract the signing code to sign them.
-  * Useful VC libraries (note: moved to common location)
-    - [BTCR Resources](../resources.html#verifiable-credentials-libraries)
-      - [BTCR Resources - markdown link](../resources.md)
+  * Useful VC libraries [BTCR Resources - see Verifiable Credentials Libraries](https://github.com/w3c-ccg/didm-btcr/blob/gh-pages/resources.md)
     
  ### What's needed to achieve Goal 2
  - Ideally, get golang service running. This way all consumers can use it
