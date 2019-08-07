@@ -34,6 +34,11 @@ Fausto Woelflin: joining for the first time today, interested to learn
     - https://github.com/WebOfTrustInfo/btcr-hackathon-2019/issues
 - Christopher, if you have the vc-js-cli tool running on your system, perhaps you could give a demo, time permitting?
 
+# Demo: BTCR Electron App 
+
+Anthony Ronning presented his BTCR Electron app, to which he recently added wallet functionality. Here's a screenshot of BTCR DID creation in his app.
+
+![Electron BTCR App Screenshot](anthony_electron_demo.png)
 
 # Issues
 - golang code build errors
