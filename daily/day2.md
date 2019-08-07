@@ -19,10 +19,7 @@ Details are in the [Day 2 Hack MD](https://hackmd.io/2ugDa7azSm-Jm4dxVE9i7A)
 - Reminder that `EcdsaSecp256k1VerificationKey2019` is the correct key type to use in BTCR DID Documents (for the signing key)
   
 ## Action Items
-- JSON-LD context fixes (described above)
-- Samples need to be updated
-  - Old-formatted BTCR DIDs need to be updated (ids)
-  - Update key type (see decisions)
+[Issue tracker](https://github.com/WebOfTrustInfo/btcr-hackathon-2019/issues)
 
 ## Various links
 
