@@ -41,6 +41,9 @@ Anthony Ronning presented his BTCR Electron app, to which he recently added wall
 ![Electron BTCR App Screenshot](anthony_electron_demo.png)
 
 # Issues
+
+Note: tracking these as [github issues](https://github.com/WebOfTrustInfo/btcr-hackathon-2019/issues)
+
 - golang code build errors
 - owner -> controller
 - need to add VC signing capability to implicit document
