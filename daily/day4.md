@@ -11,7 +11,8 @@
 Michael Hawkins
 - merging playground and coinbin wallet
 - VC command line tool requires base58 encoding
-- screenshare 
+
+![BTCR Playground Wallet Screenshot](hawkins_playground_wallet.png)
 
 Matt Collier
 - Worked with Christopher to get command line tool going
