@@ -77,5 +77,9 @@ Joe Andrieu
     > need to do native BTCR and native mobile development... that's more of an uplift
 - How to deal with hyphens/colons
     - https://github.com/WebOfTrustInfo/btcr-hackathon-2019/issues/16
-        - bech32 & txref
+    - bech32 BIP ?? & txref BIP 136 ignores hyphens
+    - Decision:
+        - This be defined as part of the method-specific seperator
+        - BTCR DIDs will have a method to be canonicalized
+        - Use the BTCR methods DID canonicalization when comparing BTCR DIDs.
 
