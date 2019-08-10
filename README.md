@@ -8,6 +8,7 @@ This remote hackathon is August 5-9, 2019. Details below.
 - [Day 2](daily/day2.md)
 - [Day 3](daily/day3.md)
 - [Day 4](daily/day4.md)
+- [Day 5](daily/day5.md)
 
 ## BTCR Resources
 
