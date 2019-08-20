@@ -14,9 +14,16 @@
 - BTCR playground retrofitted on coinb.in; [See BTCR Playground](https://weboftrustinfo.github.io/btcr-tx-playground.github.io)
 - Electron demo updated; [See btcr-electron source](https://github.com/AnthonyRonning/btcr-electron)
 - Got btcd node on linode [See Details in Issue 17](https://github.com/WebOfTrustInfo/btcr-hackathon-2019/issues/17)
-- Consolidated [BTCR references](https://github.com/w3c-ccg/didm-btcr/blob/gh-pages/resources.md) 
-
-
+- Consolidated [BTCR references](https://github.com/w3c-ccg/didm-btcr/blob/gh-pages/resources.md)
+- DIF Interop prototype using BTCR DIDs for claims issuer
+    - demo linking BTCR DIDs to domains using [.well-known uri](https://github.com/decentralized-identity/well-known)
+        - [Example](http://well-known.transmute-did.com/)
+    - [JSON-LD VC using BTCR](https://github.com/decentralized-identity/lds-ecdsa-secp256k1-2019.js)
+- BTCR Tutorial in Satyrn
+    - Satyrn is a JavaScript tutoiral sandbox http://github.com/satyrnjs/satyrn
+    - Draft framework for full tutorial on DIDs, BTCR, and BTC (offline)
+    - Ultimately focused on just the DID section
+    - Raised questions about canonical BTCR format
 
 ## Struggles; still in progress
 - Authoring Verifiable Credentials, even simple "knows" claim [See issue 12](https://github.com/WebOfTrustInfo/btcr-hackathon-2019/issues/12)
@@ -27,8 +34,3 @@
 - Progress on actions from [day 5](https://github.com/WebOfTrustInfo/btcr-hackathon-2019/blob/master/daily/day5.md)
 
 
-# BTCR Tutorial in Satyrn
-- Satyrn is a JavaScript tutoiral sandbox http://github.com/satyrnjs/satyrn
-- Draft framework for full tutorial on DIDs, BTCR, and BTC (offline)
-- Ultimately focused on just the DID section
-- Raised questions about canonical BTCR format
