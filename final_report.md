@@ -24,6 +24,9 @@
     - Draft framework for full tutorial on DIDs, BTCR, and BTC (offline)
     - Ultimately focused on just the DID section
     - Raised questions about canonical BTCR format
+- Deprecated [txref-conversion-java](https://github.com/WebOfTrustInfo/txref-conversion-java) in favor of newly created [btc-tx-lookup-java](https://github.com/WebOfTrustInfo/btc-tx-lookup-java).
+    - Uses [libbech32-java](https://github.com/dcdpr/libbech32-java) and [libtxref-java](https://github.com/dcdpr/libtxref-java) as dependencies.
+    - Used by [BTCR driver](https://github.com/decentralized-identity/universal-resolver/tree/master/drivers/btcr/) of DIF Universal Resolver.
 
 ## Struggles; still in progress
 - Authoring Verifiable Credentials, even simple "knows" claim [See issue 12](https://github.com/WebOfTrustInfo/btcr-hackathon-2019/issues/12)
